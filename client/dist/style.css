@@ -1,0 +1,19 @@
+.top-container{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+}
+
+.banner{
+    max-width: 100%;
+}
+
+#product-gallery-summary{
+    width: 70%;
+}
+
+
+#sidebar{
+    position: absolute;
+    right: 10px;
+}
