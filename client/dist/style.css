@@ -1,7 +1,8 @@
 .top-container{
     display: flex;
     flex-direction: row;
-    border: 1px solid black;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 .banner{
@@ -9,11 +10,13 @@
 }
 
 #product-gallery-summary{
-    width: 70%;
+    width: 80vw;
+    margin-right: 150px;
 }
 
-
 #sidebar{
-    position: absolute;
-    right: 10px;
+    width: 20vw;
+    position: relative;
+    margin-right: 20px;
+
 }
